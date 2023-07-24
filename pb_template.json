@@ -1,0 +1,46 @@
+{
+	"contact": "t.me/meppci",
+	"templates": [{
+			"name": "doggo_logo_jpg_ps_89family.jpg",
+			"sources": [
+				"https://i.imgur.com/Bu5FZ0Q.jpg?1"
+			],
+			"x": 2001,
+			"y": 954
+		},
+		{
+			"name": "kittens_jpg_ps.jpg",
+			"sources": [
+				"https://i.imgur.com/CDpPETK.jpg?1"
+			],
+			"x": 1133,
+			"y": 1170
+		},
+		{
+			"name": "11123",
+			"sources": [
+				"https://i.imgur.com/VwV5ATl.jpg?1"
+			],
+			"x": 1139,
+			"y": 256
+		},
+		{
+			"name": "kitten2",
+			"sources": [
+				"https://i.imgur.com/fhOLE11.png?1"
+			],
+			"x": 2220,
+			"y": 1899
+		},
+		{
+			"name": "turkey",
+			"sources": [
+				"https://i.imgur.com/8DNLWIf.png?1"
+			],
+			"x": 1132,
+			"y": 1290
+		}
+	],
+	"whitelist": [],
+	"blacklist": []
+}
