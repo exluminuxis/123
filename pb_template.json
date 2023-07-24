@@ -35,11 +35,19 @@
 		{
 			"name": "turkey",
 			"sources": [
-				"https://i.imgur.com/8DNLWIf.png?1"
+				"https://i.imgur.com/qdTbBNp.jpg?1"
 			],
 			"x": 1132,
 			"y": 1290
-		}
+		},
+  {
+   "name": "last art",
+   "sources": [
+    "https://i.imgur.com/nRNvi7P.jpg?1"
+   ],
+   "x": 1184,
+   "y": 1828
+  }
 	],
 	"whitelist": [],
 	"blacklist": []
